@@ -52,9 +52,6 @@ docker run --rm -v $(pwd)/input:/app/input -v $(pwd)/output:/app/output --networ
 - ✅ No hardcoding
 - ✅ Model-free, <200MB dependencies
 
-## 🔒 Privacy
-This project should be kept private until hackathon submission deadline.
-
 ---
 
 Made with ❤️ for Adobe India Hackathon 2025
